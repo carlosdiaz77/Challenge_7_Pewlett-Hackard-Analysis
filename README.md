@@ -13,7 +13,7 @@ The main objective of the analysis was to determine the number of retiring emplo
 
 ## 2. Results:
 
-###Deliverable 1: The Number of Retiring Employees by Title 
+### Deliverable 1: The Number of Retiring Employees by Title 
 
 
 <img src = "Resources/ERD.png" width= "400" >
