@@ -22,7 +22,7 @@ The main objective of the analysis was to determine the number of retiring emplo
 First a ERD was created to understand the  structure of the data. See image above.
 
 
- <img src = "Resources/retirement_titles.png" width= "400" >
+ <img src = "Resources/retirement_titles.png" width= "650" >
 
 First step: SQL queries,  I created the Retirement Titles table  shown above.
 This table holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955
