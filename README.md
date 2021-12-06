@@ -33,7 +33,7 @@ This table holds all the titles of current employees who were born between Janua
 There were duplicate entries for some employees because they have switched titles over the years.
 I used  the  DISTINCT ON statement to remove these duplicates and keep only the most recent title of each employee.
 
-<img src =  Resources/retiring_titles.png" width= "400" >
+<img src =  "Resources/retiring_titles.png" width= "400" >
 
 Then using the GROUP BY statement I was able to generate the table  that can be seen above, where we can the number of retiring employees per title.
 
