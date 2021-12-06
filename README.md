@@ -22,13 +22,27 @@ The main objective of the analysis was to determine the number of retiring emplo
 First a ERD was created to understand the  structure of the data. See image above.
 
 
- <img src = "Resources/retirement_titles.png" width= "650" >
+ <img src = " Resources/retirement_titles.png" width= "400" >
 
-First step: SQL queries,  I created the Retirement Titles table  shown above.
+Using SQL queries,  I created the Retirement Titles table  shown above.
 This table holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955
 
 
-### Deliverable 2 Create a Customer Travel Destinations Map
+<img src = " Resources/unique_titles.png" width= "400" >
+
+There were duplicate entries for some employees because they have switched titles over the years.
+I used  the  DISTINCT ON statement to remove these duplicates and keep only the most recent title of each employee.
+
+<img src = " Resources/retiring_titles.png" width= "400" >
+
+Then using the GROUP BY statement I was able to generate the table  that can be seen above, where we can the number of retiring employees per title.
+
+### Deliverable 2 : The Employees Eligible for the Mentorship Program
+
+
+
+
+
 
   <img src = "Resources/selected_cities.png" width= "400" >
   
@@ -49,5 +63,6 @@ Then, create a marker layer map with a pop-up marker for each city on the itiner
 
 This was a  very interesting challenge where I had the opportunity to discover and use the APIs.
 I see a big opportunity and I believe this will be very useful 
+
 
 
