@@ -16,24 +16,24 @@ The main objective of the analysis was to determine the number of retiring emplo
 ### Deliverable 1: The Number of Retiring Employees by Title 
 
 
-<img src = "Resources/ERD.png" width= "400" >
+<img src = "Resources/ERD.png" width= "650" >
 
 
 First a ERD was created to understand the  structure of the data. See image above.
 
 
- <img src = "Resources/retirement_titles.png" width= "400" >
+ <img src = "Resources/retirement_titles.png" width= "650" >
 
 Using SQL queries,  I created the Retirement Titles table  shown above.
 This table holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955
 
 
-<img src = "Resources/unique_titles.png" width= "400" >
+<img src = "Resources/unique_titles.png" width= "650" >
 
 There were duplicate entries for some employees because they have switched titles over the years.
 I used  the  DISTINCT ON statement to remove these duplicates and keep only the most recent title of each employee.
 
-<img src =  "Resources/retiring_titles.png" width= "400" >
+<img src =  "Resources/retiring_titles.png" width= "650" >
 
 Then using the GROUP BY statement I was able to generate the table  that can be seen above, where we have the number of retiring employees per title.
 
