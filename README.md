@@ -40,29 +40,22 @@ Then using the GROUP BY statement I was able to generate the table  that can be 
 ### Deliverable 2 : The Employees Eligible for the Mentorship Program
 
 
+<img src =  "Resources/mentorship_eligibilty.png" width= "650" >
 
-
-
-
-  <img src = "Resources/selected_cities.png" width= "400" >
-  
-I used input statements to retrieve customer weather preferences, 
-then use those preferences to identify potential travel destinations and nearby hotels. 
-Then, show those destinations on a marker layer map with pop-up markers.
-
-<img src = "Resources/WeatherPy_vacation_map.png" width= "400" >
-### Deliverable 3 Create a Travel Itinerary Map
-I used the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations.
-Then, create a marker layer map with a pop-up marker for each city on the itinerary.
-
-<img src = "Resources/WeatherPy_travel_map_markers.png" width= "400" >
-<img src = "Resources/WeatherPy_travel_map.png" width= "400" >
+I created the query shown above to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
+The result was 1,549 employees.
 
 
 ## 3. Summary: 
 
-This was a  very interesting challenge where I had the opportunity to discover and use the APIs.
-I see a big opportunity and I believe this will be very useful 
+Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+o	How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+o	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+
+
+
+
 
 
 
