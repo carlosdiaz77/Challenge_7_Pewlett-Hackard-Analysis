@@ -1,9 +1,9 @@
-#Pewlett-Hackard-Analysis, Retiring employees and  mentorship program.
+# Pewlett-Hackard-Analysis, Retiring employees and  mentorship program.
 
 ## 1. Overview of the analysis
 
 This is the challenge activity for the module 7 of the Data Analytics and Visualization Boot Camp of the university of Texas at Austin.
-The main idea is to apply the learned skills of ### Structured Query Language (SQL).
+The main idea is to apply the learned skills of Structured Query Language (SQL).
 
 <img src = "Resources/intro.png" width= "400" >
 
