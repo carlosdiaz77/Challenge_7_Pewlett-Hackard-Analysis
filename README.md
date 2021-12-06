@@ -35,7 +35,7 @@ I used  the  DISTINCT ON statement to remove these duplicates and keep only the 
 
 <img src =  "Resources/retiring_titles.png" width= "400" >
 
-Then using the GROUP BY statement I was able to generate the table  that can be seen above, where we can the number of retiring employees per title.
+Then using the GROUP BY statement I was able to generate the table  that can be seen above, where we have the number of retiring employees per title.
 
 ### Deliverable 2 : The Employees Eligible for the Mentorship Program
 
