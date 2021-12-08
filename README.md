@@ -48,7 +48,7 @@ The result was 1,549 employees.
 
 ## 3. Summary: 
 
-### Summary:  We have two importan question below:
+### Summary:  We have two importan questions below:
 	
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 -	As we can see in the table below,  in the next 5 years  90 thousand employees will have to retire. 
