@@ -58,7 +58,7 @@ The result was 1,549 employees.
 	
 -	In the table below we can see that in the last 3 years , the company only has hired  9,000  employees.
 -	This company needs to start hiring people urgenlty, so that can fill the gaps 
--	<img src =  "Resources/group_from_date.png" width= "650" >
+<img src =  "Resources/group_from_date.png" width= "650" >
 
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
