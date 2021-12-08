@@ -49,13 +49,13 @@ The result was 1,549 employees.
 ## 3. Summary: 
 
 ### Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
--	
+	
 -	### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 -	As we can see in the table below,  in the next 5 years  90 thousand employees will have to retire. 
 -	This company needs to hire about 18,000 employes per year for the next 5 years.
 
--	<img src =  "Resources/group_birth_date.png" width= "650" >
--	
+<img src =  "Resources/group_birth_date.png" width= "650" >
+	
 -	In the table below we can see that in the last 3 years , the company only has hired  9,000  employees.
 -	This company needs to start hiring people urgenlty, so that can fill the gaps 
 -	<img src =  "Resources/group_from_date.png" width= "650" >
