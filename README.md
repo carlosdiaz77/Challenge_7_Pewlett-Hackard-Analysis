@@ -50,7 +50,7 @@ The result was 1,549 employees.
 
 ### Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 	
--	### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 -	As we can see in the table below,  in the next 5 years  90 thousand employees will have to retire. 
 -	This company needs to hire about 18,000 employes per year for the next 5 years.
 
@@ -63,4 +63,4 @@ The result was 1,549 employees.
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 -	As we previuosly stated, there are about 90 thousand employees that will retire in the next 5 years , We surely have lots of talent and enough people to train the future leaders of the company
--	<img src =  "Resources/qualified_ready.png" width= "650" >
+<img src =  "Resources/qualified_ready.png" width= "650" >
